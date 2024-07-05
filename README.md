@@ -57,6 +57,19 @@ load_transformed_data:
 
 Drops the existing avg_price_per_neighbourhood collection if it exists.
 Inserts the transformed data into the avg_price_per_neighbourhood collection in MongoDB.
+
 end:
 
 Prints a message indicating the successful completion of the ETL process.
+
+## ScreenShot
+
+![MongoDatabase1](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/9f4f9173-8794-4b69-aacb-e5ee840016de)
+![Screenshot 5](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/07f51e5b-1c9a-4d52-b836-1337819508e5)
+![Screenshot 4](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/8ef2cd1e-5548-4f35-90de-b142c49680ba)
+![Screenshot 3](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/a3cbe5ba-6220-4e4d-9a9e-975c4512508b)
+![Screenshot 2](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/c3c721ea-afc9-4641-86e8-fbe038763dca)
+![Screenshot 1](https://github.com/kumarhrithik/AIRBNB-NYC-ETL/assets/99884498/52a88844-c448-49ba-bd6a-8308bdfde945)
+
+
+
