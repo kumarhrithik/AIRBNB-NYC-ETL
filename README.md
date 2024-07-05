@@ -6,11 +6,11 @@ This repository contains an ETL pipeline script that processes the Airbnb New Yo
 
 airbnb-nyc-etl/
 ├── data/
-│ └── your_dataset.csv # Placeholder for your dataset
+│   └── AB_NYC_2019.csv      # Placeholder for your dataset
 ├── scripts/
-│ └── etl_pipeline.py # Your ETL pipeline script
-├── README.md # Project instructions and documentation
-└── requirements.txt # Required Python libraries
+│   └── etl_pipeline.py       # ETL pipeline script
+├── README.md                 # Project instructions and documentation
+└── requirements.txt 
 
 
 ## Setup and Installation
